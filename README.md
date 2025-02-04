@@ -1,0 +1,1 @@
+This Looker visualization is distributed with the following license:..

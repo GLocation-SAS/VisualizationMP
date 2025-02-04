@@ -1,0 +1,19 @@
+{
+    "label": "Gauge Visualization",
+    "category_label": "plug-ins",
+    "branding": {
+      "image_uri": "https://marketplace-api.looker.com/visualization-screenshots/gauge_icon.png",
+      "tagline": "Use the Gauge visualization to display a measure and progress to a goal."
+    },
+     "constants": {
+          "vis_label": {
+              "label": "Visualization Label",
+              "description": "This label will appear in the visualization selector in the Looker Explore UI."
+          },
+          "vis_id": {
+              "label": "Visualization Id",
+              "description": "This must be a unique ID across all visualizations.",
+              "value_constraint": "visualization"
+          }
+      }
+  }
